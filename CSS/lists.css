@@ -1,1 +1,10 @@
-Arquivos css
+ul{
+border: 1px solid blue;
+padding: 10px; /* padding espacamento interno*/
+}
+
+li{
+ 
+color: darkblue;
+
+}
